@@ -1,4 +1,4 @@
-# Laravel Docker De Eviroment
+# Laravel Docker Dev Eviroment
 
 Start for the directory you cloned in
 
